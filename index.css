@@ -1,0 +1,127 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.nav-items>ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-items>ul>li {
+    padding: 10px;
+}
+
+.company_logo {
+    width: 70px;
+    height: 70px;
+}
+
+.restaurant-card {
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.restaurant-card>div>img {
+    width: 100%;
+}
+
+.restaurants {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+}
+
+.shimmer-card {
+    width: 200px;
+    height: 276px;
+    border: 1px solid rgb(156, 152, 152);
+    padding: 10px;
+    margin: 10px;
+}
+
+.header-shimmer {
+    width: 200px;
+    height: 125px;
+    background-color: rgb(156, 152, 152);
+}
+
+.middle-shimmer {
+    width: 170px;
+    height: 10px;
+    background-color: rgb(156, 152, 152);
+    margin-top: 19px;
+}
+
+.footer-shimmer {
+    width: 110px;
+    height: 10px;
+    background-color: rgb(156, 152, 152);
+    margin-top: 19px;
+}
+
+.bottom-shimmer {
+    width: 50px;
+    height: 10px;
+    background-color: rgb(156, 152, 152);
+    margin-top: 19px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.res-container {
+    margin-left: 350px;
+    margin-right: 350px;
+    border: 1px solid black;
+}
+
+.restaurant-info {
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 12px;
+}
+
+.restaurant-right {
+    margin-top: 20px;
+}
+
+.costfortwo {
+    display: flex;
+    gap: 20px;
+}
+
+.itemcards {
+    display: flex;
+    flex-direction: column;
+}
+
+.img-responsive {
+    width: 100px;
+    height: 100px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
